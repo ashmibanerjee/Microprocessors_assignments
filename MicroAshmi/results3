@@ -1,0 +1,2 @@
+VARIANT3: gcc -lm -march=native toupper.c -O2
+Size: 8000 	Ratio: 50.000000 	Running time:	simple: 1048.000000	optimised: 51.000000
